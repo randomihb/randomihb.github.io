@@ -13,7 +13,7 @@ NOTE: Your username will be your URL (unless you redirect using DNS)
 
 ## Clone repositiory
 
-Once logged into your account, go to the original [randomlshb](https://github.com/randomlshb/randomlshb.github.io) repository and Click "Fork"
+Once logged into your account, go to the original [randomihb](https://github.com/randomihb/randomihb.github.io) repository and Click "Fork"
 
 ![image](./readmepics/fork.jpg)
 
@@ -24,7 +24,7 @@ Once logged into your account, go to the original [randomlshb](https://github.co
 Head over to your repository at:
 
 ```
-https://github.com/YOURUSERNAME/randomlshb.github.io
+https://github.com/YOURUSERNAME/randomihb.github.io
 ```
 
 Click on `Settings`:
@@ -36,7 +36,7 @@ Rename your repository to `YOUR ACCOUNT USERNAME` and then click `Rename`:
 ![image3](./readmepics/rename.jpg)
 
 ```
-randomlshb.github.io -> YOURACCOUNT.github.io
+randomihb.github.io -> YOURACCOUNT.github.io
 ```
 
 ## Create your song list
@@ -92,4 +92,4 @@ To host the website yourself, you can generate the source files by invoking [Jek
 
 or..
 
-Download the zip file of the generated source files [here](https://github.com/randomlshb/randomlshb-source/archive/master.zip). Follow the same steps above for modifying the `songs.csv`.
+Download the zip file of the generated source files [here](https://github.com/randomihb/randomihb-source/archive/master.zip). Follow the same steps above for modifying the `songs.csv`.
